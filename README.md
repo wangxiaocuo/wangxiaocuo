@@ -2,13 +2,13 @@
 
 ### 👨 ‍ 关于我
 
-<p align="right">
-  <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 16 年毕业于郑州航空工业管理学院，学的是计算机科学与技术
-- 一名从业四年+的前端开发
-- 目前在上海工作
+16 年毕业于郑州航空工业管理学院，学的是计算机科学与技术
+
+一名从业四年+的前端开发
+
+目前在上海工作
 
 ### 🛠 技术栈 | Tech Stack
 
