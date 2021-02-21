@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
 </p>
 
-<h4 align="center">访客统计</h4>
+<h4 align="center">浏览统计</h4>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{wangxiaocuo}/count.svg" alt="王小错's Count" />
 </p>
