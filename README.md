@@ -2,12 +2,12 @@
 
 ### 👨 ‍ 关于我
 
-<p align="center">
+<p align="right">
   <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
 
-- 我 16 年毕业于郑州航空工业管理学院，学的是计算机科学与技术
-- 我是一名从业四年+的前端开发
+- 16 年毕业于郑州航空工业管理学院，学的是计算机科学与技术
+- 一名从业四年+的前端开发
 - 目前在上海工作
 
 ### 🛠 技术栈 | Tech Stack
@@ -23,13 +23,15 @@
 
 [![Mail Badge](https://img.shields.io/badge/Email-xiaocuo.wang@outlook.com-dd6387?style=flat&logoColor=white&link=mailto:xiaocuo.wang@outlook.com)](mailto:xiaocuo.wang@outlook.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
 </p>
 
-<h4 align="center">访客统计 :eyes:</h4>
+<h4 align="center">访客统计</h4>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{wangxiaocuo}/count.svg" alt="王小错's Count" />
 </p>
