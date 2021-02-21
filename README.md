@@ -1,6 +1,6 @@
 ## 你好 👋，这里是王小错。
 
-### 👨 ‍ 关于我
+### 🇨🇳 ‍关于我
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
