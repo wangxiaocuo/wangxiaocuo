@@ -4,17 +4,13 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-16 年毕业于郑州航空工业管理学院，学的是计算机科学与技术
-
-一名从业五年的前端开发
-
-目前在上海工作
+16 年毕业的前端开发一枚，目前定居在苏州。
 
 ### 🛠 技术栈 | Tech Stack
 
 - ![html5](https://img.shields.io/badge/-html5-333333?style=flat&logo=html5) ![css3](https://img.shields.io/badge/-css3-333333?style=flat&logo=css3) ![javascript](https://img.shields.io/badge/-es5/6-333333?style=flat&logo=javascript)
 - ![模块化](https://img.shields.io/badge/-模块化-333333?style=flat) ![http](https://img.shields.io/badge/-http-333333?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-- ![scss](https://img.shields.io/badge/-scss-333333?style=flat&logo=sass) ![less](https://img.shields.io/badge/-less-333333?style=flat&logo=less) ![stylus](https://img.shields.io/badge/-stylus-333333?style=flat&logo=stylus) ![postcss](https://img.shields.io/badge/-postcss-333333?style=flat&logo=postcss)
+- ![scss](https://img.shields.io/badge/-scss-333333?style=flat&logo=sass) ![less](https://img.shields.io/badge/-less-333333?style=flat&logo=less) ![stylus](https://img.shields.io/badge/-stylus-333333?style=flat&logo=stylus)
 - ![vue](https://img.shields.io/badge/-vue全家桶-333333?style=flat&logo=vue.js) ![react](https://img.shields.io/badge/-react全家桶-333333?style=flat&logo=react)
 - ![微信小程序](https://img.shields.io/badge/-微信小程序-333333?style=flat&logo=wechat) ![taro](https://img.shields.io/badge/-taro-333333?style=flat) ![uniapp](https://img.shields.io/badge/-uniapp-333333?style=flat)
 - ![jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery) ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
