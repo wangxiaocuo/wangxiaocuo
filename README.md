@@ -1,38 +1,35 @@
-## 你好 👋，这里是王小错。
+# 王小错 | Full‑Stack Developer
 
-### 🇨🇳 ‍ 关于我 | About Me
+专注前端架构与工程化，具备全栈交付能力，现居苏州。以 TypeScript/React/Vue + Node.js 为核心技术栈，关注性能、可维护性与稳定性。
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+---
 
-16 年毕业的前端开发一枚，目前定居在苏州。
+## 核心技能 | Core Skills
 
-### 🛠 技术栈 | Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-black?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat&logo=webpack&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
 
-- ![html5](https://img.shields.io/badge/-html5-333333?style=flat&logo=html5) ![css3](https://img.shields.io/badge/-css3-333333?style=flat&logo=css3) ![javascript](https://img.shields.io/badge/-es5/6-333333?style=flat&logo=javascript)
-- ![模块化](https://img.shields.io/badge/-模块化-333333?style=flat) ![http](https://img.shields.io/badge/-http-333333?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-- ![scss](https://img.shields.io/badge/-scss-333333?style=flat&logo=sass) ![less](https://img.shields.io/badge/-less-333333?style=flat&logo=less) ![stylus](https://img.shields.io/badge/-stylus-333333?style=flat&logo=stylus)
-- ![vue](https://img.shields.io/badge/-vue全家桶-333333?style=flat&logo=vue.js) ![react](https://img.shields.io/badge/-react全家桶-333333?style=flat&logo=react)
-- ![微信小程序](https://img.shields.io/badge/-微信小程序-333333?style=flat&logo=wechat) ![taro](https://img.shields.io/badge/-taro-333333?style=flat) ![uniapp](https://img.shields.io/badge/-uniapp-333333?style=flat)
-- ![jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery) ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
-- ![ECharts](https://img.shields.io/badge/-ECharts-333333?style=flat&logo=apache) ![AntV](https://img.shields.io/badge/-antV-333333?style=flat&logo=ant-design) ![百度地图](https://img.shields.io/badge/-百度地图-333333?style=flat&logo=baidu) ![高德地图](https://img.shields.io/badge/-高德地图-333333?style=flat)
-- ![node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js) ![koa](https://img.shields.io/badge/-koa-333333?style=flat) ![mangoDB](https://img.shields.io/badge/-mangoDB-333333?style=flat&logo=mangoDB)
-- ![pug](https://img.shields.io/badge/-pug-333333?style=flat&logo=pug) ![ejs](https://img.shields.io/badge/-ejs-333333?style=flat) ![artTemplate](https://img.shields.io/badge/-artTemplate-333333?style=flat)
-- ![gulp](https://img.shields.io/badge/-gulp-333333?style=flat&logo=gulp) ![webpack](https://img.shields.io/badge/-webpack-333333?style=flat&logo=webpack) ![git](https://img.shields.io/badge/-git-333333?style=flat&logo=git) ![svn](https://img.shields.io/badge/-svn-333333?style=flat)
-- ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux) ![nginx](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
+- 全栈：前端（React/Vue/微前端）+ 后端（Node.js/Express/Fastify）
+- 工程化：模块化、CI/CD、单元测试、性能优化、监控与可观测性
+- 架构：组件化设计、领域驱动、BFF、SSR、渐进式重构
 
-### 📧 联系我 | Contact Me
+### 技能矩阵 | Skills Matrix
 
-[![Mail Badge](https://img.shields.io/badge/Email-xiaocuo.wang@outlook.com-dd6387?style=flat&logoColor=white&link=mailto:xiaocuo.wang@outlook.com)](mailto:xiaocuo.wang@outlook.com)
+| 领域 | 技能 | 熟练度 |
+| --- | --- | --- |
+| 前端 | TypeScript / React / Vue | ⬛⬛⬛⬛⬛ |
+| 后端 | Node.js / Koa / Nest | ⬛⬛⬛⬛⬜ |
+| 工程 | Webpack / Vite / CI/CD | ⬛⬛⬛⬛⬛ |
+| 运维 | Nginx / Linux / Docker | ⬛⬛⬛⬛⬜ |
+| 可视化 | ECharts / AntV | ⬛⬛⬛⬛⬜ |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiaocuo&theme=dracula&show_icons=true" alt="王小错's github stats" />
-</p>
+## 联系方式 | Contact
 
-<h4 align="center">浏览统计</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{wangxiaocuo}/count.svg" alt="王小错's Count" />
-</p>
+[![Email](https://img.shields.io/badge/Email-xiaocuo.wang@outlook.com-black?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:xiaocuo.wang@outlook.com)
